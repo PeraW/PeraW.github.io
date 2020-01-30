@@ -11,5 +11,9 @@
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
+name: Escupitajo
+
+description: Puaajjjj
+
 plugins:
   - jekyll-seo-tag
