@@ -1,7 +1,7 @@
 ---
 title: Escupitajo
 layout: home
-permalink: /inicio
+permalink: /
 ---
 
 # Lorem ipsum
