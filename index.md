@@ -1,5 +1,5 @@
 ---
-title: Escupitajo
+title: Inicio
 layout: home
 permalink: /
 ---
