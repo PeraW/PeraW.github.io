@@ -6,7 +6,7 @@ header_pages:
    - index.md
    - about.md
 
-footer: 'palabras que pegan como escupitajo a la cara'
+# footer: 
 
 style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
